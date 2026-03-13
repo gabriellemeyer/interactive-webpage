@@ -8,16 +8,16 @@ nav ul li a
   border-radius: 10px;
   text-decoration: none;
   font-size: 30px;
-  background-color: rgb(32, 237, 76);}
+  background-color: rgb(190, 194, 172);}
 
 nav ul li a.active 
-{background-color: rgb(255, 21, 208);
+{background-color: rgb(25, 21, 24);
   color: black;}
 
 nav ul li a:hover 
 {font-family: "Comic Sans MS", cursive, sans-serif;
-  background-color: rgb(46, 236, 249);
-  color: rgb(211, 241, 43);}
+  background-color: rgb(11, 11, 11);
+  color: rgb(174, 174, 157);}
 
 nav ul 
 {list-style: none;}
